@@ -4,4 +4,4 @@
 
 ## 🚀 Run in Colab
 
-[(https://colab.research.google.com/drive/1yJpDXjRf6irZW0xdBRzE6UowrVzJQ7v7?usp=sharing)]
+[https://colab.research.google.com/drive/1yJpDXjRf6irZW0xdBRzE6UowrVzJQ7v7?usp=sharing]
